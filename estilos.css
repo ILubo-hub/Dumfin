@@ -30,7 +30,7 @@ body{
 }
 footer{
     padding-top: 5%;
-    padding-bottom: 5%;
+    padding-bottom: 3%;
     background-color: #2A2625;
 }
 #textFooter{
@@ -64,10 +64,4 @@ footer{
 }
 .mrg{
     margin-bottom: 2%;
-}
-.clr{
-    color:grey;
-    text-align: center;
-    font-weight: 100;
-    font-size: x-small;
 }
