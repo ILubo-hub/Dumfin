@@ -1,0 +1,67 @@
+body{
+    background: rgb(217,224,217);
+    background: linear-gradient(90deg, rgba(217,224,217,1) 0%, rgba(110,119,111,1) 50%);
+}
+#hpp{
+    margin-bottom: 5%;
+    margin-top: 10%;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,115,0,1) 49%, rgba(0,0,0,1) 100%);
+    border-color: black;
+    border-style: solid;
+    padding-right: 5%;
+    padding-left: 5%;
+    border-radius: 10px 10px 10px 10px;
+
+}
+#CDM{
+    color: white;
+}
+#pasos, #pasos2, #pasos3, #pasos4{
+    margin-bottom: 5%;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,115,0,1) 49%, rgba(0,0,0,1) 100%);
+    background-color: black;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 200%;
+    color: white;
+    border-color: black;
+    border-style: solid;
+}
+footer{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #2A2625;
+}
+#textFooter{
+    color:white;
+    text-align: center;
+    font-weight: 100;
+}
+.center{
+    text-align: center;
+}
+.titulo{
+    font-size: 50px;
+}
+.fondo{
+    background-color: #2A2625;
+    color:white;
+    font-weight: 100;
+    margin-left: -80%;
+    margin-right: -80%;
+    margin-bottom: 2%;
+}
+#intro{
+    margin-bottom: 2%;
+}
+#texto{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+}
+.mrg{
+    margin-bottom: 2%;
+}
